@@ -142,6 +142,27 @@ main {
   height: 500px;
 }
 
+.sobre {
+  display: grid;
+  width: 50%;
+  margin: 0 auto; /* centraliza horizontalmente */
+  margin-bottom: 50px;
+  text-align: center; /* opcional: centraliza o texto */
+}
+
+.sobre p{
+  text-align: justify;
+  font-size: 35px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.a2 p {
+  margin: 2px 0;
+  line-height: 1.2;
+}
+
+
+
 
 /* -------------------------------------------- Fim Main -------------------------------------------------- */
 
